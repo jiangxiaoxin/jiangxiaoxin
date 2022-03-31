@@ -1,5 +1,5 @@
 - 👋 Hi, I’m **@jiangxiaoxin(helloca)**
-- 👀 I’m interested in **web/canvas/webgl/krpano/flutter/algorithm**
+- 👀 I’m interested in **web/canvas/webgl/krpano/three.js/algorithm**
 - 🌱 I’m currently learning **computer graphics**
 - 💞️ I’m looking to collaborate on **vue 3.0 components**
 - 📫 How to reach me **QQ: 815612516**
