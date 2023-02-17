@@ -1,6 +1,5 @@
 - 👋 Hi, I’m **@jiangxiaoxin(helloca)**
 - 👀 I’m interested in **web/canvas/webgl/krpano/three.js/algorithm**
-- 🌱 I’m currently learning **computer graphics**
 - 📫 How to reach me **QQ: 815612516**
 
 <!---
